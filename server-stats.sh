@@ -3,7 +3,7 @@
 echo "===== 🖥️  Server Performance Report ====="
 echo "Generated on: $(date)"
 echo
-
+echo "general Info'
 # ---------- OS & System Info ----------
 echo "🔧 System Information:"
 echo "Hostname         : $(hostname)"
